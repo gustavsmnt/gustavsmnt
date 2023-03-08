@@ -1,14 +1,7 @@
-### Hi there 👋
+👋 Hi there, you can call me Gustav
+👯 I’m looking to collaborate on data science field
+📬 E-mail: gustavsmnt@gmail.com
+🔗 Linkedin: https://www.linkedin.com/in/gustavsmnt/
+🗺️ Digital CV: bit.ly/gustavsmntDCV
 
-<!--
-**gustavsmnt/gustavsmnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on data science field
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
