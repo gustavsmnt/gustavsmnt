@@ -1,7 +1,7 @@
-👋 Hi there, you can call me Gustav
-👯 I’m looking to collaborate on data science field
-📬 E-mail: gustavsmnt@gmail.com
-🔗 Linkedin: https://www.linkedin.com/in/gustavsmnt/
-🗺️ Digital CV: bit.ly/gustavsmntDCV
+👋 Hi there, you can call me Gustav <br />
+👯 I’m looking to collaborate on data science field <br />
+📬 E-mail: gustavsmnt@gmail.com <br />
+🔗 Linkedin: https://www.linkedin.com/in/gustavsmnt/ <br />
+🗺️ Digital CV: bit.ly/gustavsmntDCV <br />
 
 
